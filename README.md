@@ -11,3 +11,11 @@ Assignment-2:
 Task 1:This program takes input of a number(integer) from a user and then is able to tell if that number is an odd number or an even number.
 
 Task 2:This is a program that uses for loop and finds out the sum of numbers from 1 to 50.
+
+
+Assignment-3:
+
+Task 1:This program takes input of a number from the user and has a function defined in it called factorial. Via this function, the program finds the factorial of the number input by the user as an output.
+
+
+Task 2:This program takes input of a number from the user and using math module, finds the square root, natural log and sine of the number input by the user as output.
