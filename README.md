@@ -19,3 +19,9 @@ Task 1:This program takes input of a number from the user and has a function def
 
 
 Task 2:This program takes input of a number from the user and using math module, finds the square root, natural log and sine of the number input by the user as output.
+
+Assignment-4:
+
+Task 1:This program opens and reads a text file line by line and also handles errors genereously if file not found.
+
+Task 2:This program takes input from the user the user and writes it to a text file, appends input from user to the same text file and then finally reads the content in the file line by line.
