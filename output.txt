@@ -1,0 +1,2 @@
+Hello, Pyhton!
+Learning file handling in Pyhton.
