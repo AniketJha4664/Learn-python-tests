@@ -25,3 +25,9 @@ Assignment-4:
 Task 1:This program opens and reads a text file line by line and also handles errors genereously if file not found.
 
 Task 2:This program takes input from the user the user and writes it to a text file, appends input from user to the same text file and then finally reads the content in the file line by line.
+
+Assignment-5:
+
+Task 1:This program makes a dictionary of students with their respective marks. Hence, it lets the user to enter the student's name and than displays that student's score form the list.
+
+Task 2:This program makes a list of naturall numbers from 1 to 10. Extrats first 5 of them. Reverses them and finally prints the all three lists(original, extracted and reversed)
